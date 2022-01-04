@@ -9,7 +9,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-        classpath("com.android.tools.build:gradle:_")
+        classpath("com.android.tools.build:gradle:7.0.4")
         classpath("org.jetbrains.dokka:dokka-gradle-plugin:_")
     }
 }
