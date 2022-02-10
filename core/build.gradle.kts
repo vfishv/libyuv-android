@@ -39,7 +39,7 @@ android {
 
     lint {
         textReport = true
-        textOutput("stdout")
+        //textOutput("stdout")
     }
 
     libraryVariants.all {
